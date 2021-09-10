@@ -1,5 +1,5 @@
 ### Question Link
-[I'm an inline-style link](https://leetcode.com/problems/find-the-duplicate-number)
+[Question](https://leetcode.com/problems/find-the-duplicate-number)
 
 
 class Solution {
